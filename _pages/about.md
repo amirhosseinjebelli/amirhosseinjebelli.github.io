@@ -1,12 +1,9 @@
-
 ---
 permalink: /
 title: "About"
 excerpt: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:-/about/-/about.html
 ---
 
 Greetings, my name is Amirhossein Jebelli, i studied  naval architecture at amirkabir university of technology, my major is ship hydromechanics. I have a solid background at engineering mathematics, hydrodynamics and fluid mechanics. I can operate several engineering softwares such as MATLAB, Ansys AQWA and Ansys CFX
