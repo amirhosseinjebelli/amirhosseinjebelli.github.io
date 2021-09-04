@@ -42,7 +42,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "Amirhossein.jebelli76@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -84,7 +84,7 @@ analytics:
 author:
   name              : "amirhossein jebelli"
   avatar            : "profile.jpg"
-  bio               : ">> Theoretical Physics @ SUT\n>> Jan 22, 1998, Tehran, Iran\n>> Quantum Information, General Relativity, Nonlinear Dynamics and Chaos, Sphere Packing, Stochastic Analysis, High Dimensional Statistics"
+  bio               : "Bsc in ocean engineering and Msc in naval architecture at Amirkabir university of technology"
   location          : 
   employer          : 
   pubmed            : 
@@ -109,7 +109,7 @@ author:
   pinterest         :
   soundcloud        :
   stackoverflow     :
-  mathstackexchange : "388484/k-sadri"
+  mathstackexchange : 
   steam             :
   tumblr            :
   twitter           : 
