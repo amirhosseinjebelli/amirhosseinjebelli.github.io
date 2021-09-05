@@ -58,6 +58,8 @@ Work Experience
 2) Internship, Syraf shipbuilding and marine equipment, June 2019 until September 2019
 3) Web developer, Amirkabir university of technology, Maritime engineering faculty, September 2019 until June 2020
 4) MATLAB instructor, Amirkabir university of technology, August 2021 until now
+5) Teacher assistant of ship hydrostatics, Amirkabir university of technology, Fall 2021 
+6) Teacher assistant of Fluid mechanics , Amirkabir university of technology, Fall 2021
 
 
 project
@@ -65,7 +67,7 @@ project
 1) MATLAB GUI to design welded joints, Fall 2020
 2) MATLAB GUI to estimate resistance of high-speed marine vehicles based on Savitsky method, Spring 2021
 3) Study of wedge curvature and body form impacts on water entry, September 2019
-4) Investigation on energy converting by using hybrid system of tidal turbine and wave point absorber      mounted on a fixed vertical cylinder, Fall 2020 until now
+4) Investigation on energy converting by using hybrid system of tidal turbine and wave point absorber mounted on a fixed vertical cylinder, Fall 2020 until now
 
 
 Computer Skills
