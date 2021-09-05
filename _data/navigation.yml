@@ -3,15 +3,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Publications"
-    url: /publications/ 
-    
-  - title: "Notes"
-    url: /notes/
-    
-  - title: "Problems"
-    url: /problems/
-
   #- title: "Useful Links"
   #  url: /links/
 
