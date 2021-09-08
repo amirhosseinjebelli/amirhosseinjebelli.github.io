@@ -16,5 +16,13 @@ In this project, the point was to reduce structure’s weight and maintain the o
 
 <img src= "https://user-images.githubusercontent.com/89830432/132585898-87cd6ac3-8716-4cef-977c-0cca15f9d3ab.PNG" width="600" height="400">
 
+<img src= "https://user-images.githubusercontent.com/89830432/132586510-37968c57-f912-4f11-a42a-2e86277ea20f.PNG" width="600" height="400">
+
+<img src= "https://user-images.githubusercontent.com/89830432/132586513-995b937e-65c6-4e56-a243-bceb62defcaf.PNG" width="600" height="400">
+
+<img src= "https://user-images.githubusercontent.com/89830432/132586521-0f4b7519-0a9b-4876-b041-845e3fb21f37.PNG" width="600" height="400">
+
+<img src= "https://user-images.githubusercontent.com/89830432/132586524-565ccdb7-1aeb-442f-89ec-86f62be60ad0.PNG" width="600" height="400">
+
 
 
