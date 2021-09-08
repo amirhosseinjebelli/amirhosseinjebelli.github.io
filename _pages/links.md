@@ -29,4 +29,8 @@ For more details and full report, please contact: [amirhjbl76@gmail.com](https:/
 > **Studying different strut connections and formations in High-Speed marine vehicles**
 
 In this project, the point was to find the optimum formation of struts in order to reduce vessel’s resistance and keep it stable.
+![Capture21](https://user-images.githubusercontent.com/89830432/132590449-2178128b-4c4f-4c16-b046-2de84c1a93a3.PNG)![Capture22](https://user-images.githubusercontent.com/89830432/132590477-b484b0f1-b351-47ea-9f62-989e79596465.PNG)
+
+![Capture31](https://user-images.githubusercontent.com/89830432/132590497-c89a5ce7-4ccb-4f7a-9a96-3864e9f49c2c.PNG)![Capture32](https://user-images.githubusercontent.com/89830432/132590501-8978402c-a2b8-417e-82b0-2d0ca57b6831.PNG)
+
 
