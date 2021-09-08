@@ -1,4 +1,3 @@
-![Capture](https://user-images.githubusercontent.com/89830432/132584767-b5287eb9-4647-4b53-94d4-88ff60a13eba.PNG)
 ---
 layout: archive
 title: "My Projects"
