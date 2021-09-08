@@ -10,12 +10,12 @@ redirect_from: resume
 
 Education
 ======
-* BSc in marine engineering, Amirkabir university of technology, September 2015 until September 2019
-  * Ship introduction: 18.5/20
-  * Mechanic of materials: 18.95/20
-  * Fluid mechanics: 16.9/20
-  * C programming: 17.8/20
-  * Thermodynamics: 17/20
+> **BSc in marine engineering, Amirkabir university of technology, September 2015 until September 2019**
+   Ship introduction: 18.5/20
+   Mechanic of materials: 18.95/20
+   Fluid mechanics: 16.9/20
+   programming: 17.8/20
+   Thermodynamics: 17/20
   * Numerical analysis: 17.6/20
   * Marine hydrostatics: 14.7/20
   * Welding technology: 19/20
