@@ -24,5 +24,6 @@ In this project, the point was to reduce structure’s weight and maintain the o
 
 <img src= "https://user-images.githubusercontent.com/89830432/132586524-565ccdb7-1aeb-442f-89ec-86f62be60ad0.PNG" width="600" height="400">
 
+For more details and full report, please contact: https://amirhjbl76@gmail.com
 
 
