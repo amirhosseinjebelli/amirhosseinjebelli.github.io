@@ -26,4 +26,7 @@ In this project, the point was to reduce structure’s weight and maintain the o
 
 For more details and full report, please contact: [amirhjbl76@gmail.com](https://amirhjbl76@gmail.com)
 
+> **Studying different strut connections and formations in High-Speed marine vehicles**
+
+In this project, the point was to find the optimum formation of struts in order to reduce vessel’s resistance and keep it stable.
 
