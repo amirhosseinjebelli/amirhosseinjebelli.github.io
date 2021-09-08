@@ -58,14 +58,19 @@ For more details and full report, please contact: [amirhjbl76@gmail.com](https:/
 > **Numerical analysis of a hydrofoil with BEM techniques by means of MATLAB
 <img src= "https://user-images.githubusercontent.com/89830432/132593321-ee7616ff-b9be-4c7b-a78c-a94a80d1fa81.PNG" width="600" height="400">
 <img src= "https://user-images.githubusercontent.com/89830432/132593325-d24dfe4e-9e4e-4311-bbc3-5cfd8b8b5a63.PNG" width="600" height="400">
-
 <img src= "https://user-images.githubusercontent.com/89830432/132593326-8b40fc39-96c3-4eb9-9569-a5b88d1e853f.PNG" width="600" height="400">
-
 <img src= "https://user-images.githubusercontent.com/89830432/132593327-6571b0fd-ab87-4665-ad5f-3a9d1048b08a.PNG" width="600" height="400">
 
+For more details and full report, please contact: [amirhjbl76@gmail.com](https://amirhjbl76@gmail.com)
+
+> **MATLAB GUI to design welded joints**
 <img src= "https://user-images.githubusercontent.com/89830432/132593328-1e33a074-cadb-49bf-8b93-edfb4f2b7b74.PNG" width="600" height="400">
+
+For more details and full report, please contact: [amirhjbl76@gmail.com](https://amirhjbl76@gmail.com)
+
+> **Parametric and numeric solution of heave motion equations of a WEC.**
 <img src= "https://user-images.githubusercontent.com/89830432/132593332-b8272318-4c5f-4ce7-b825-4d87d6a94670.PNG" width="600" height="400">
-<img src= "https://user-images.githubusercontent.com/89830432/132593334-791a05dc-1675-43e0-890b-a506c2872a0a.PNG" width="600" height="400">
+<img src= "https://user-images.githubusercontent.com/89830432/132593334-791a05dc-1675-43e0-890b-a506c2872a0a.PNG" width="800" height="600">
 
 
 
