@@ -46,4 +46,11 @@ In this project, the point was to find the optimum formation of struts in order 
 
 For more details and full report, please contact: [amirhjbl76@gmail.com](https://amirhjbl76@gmail.com)
 
+> **An optimum design for B-Series**
+Designing a B-series propeller by means of MATLAB
+<img src= "https://user-images.githubusercontent.com/89830432/132592256-7f2285b9-48ea-4e98-aec1-a2d2333df46b.PNG" width="600" height="400">
+<img src= "https://user-images.githubusercontent.com/89830432/132592258-40bf8ec6-18f8-49d8-b26b-2277529766d1.PNG" width="600" height="400">
+
+For more details and full report, please contact: [amirhjbl76@gmail.com](https://amirhjbl76@gmail.com)
+
 
