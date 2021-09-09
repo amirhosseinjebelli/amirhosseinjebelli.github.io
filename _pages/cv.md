@@ -47,6 +47,7 @@ Education
 Awards and Honors
 ======
 1) Granted student, Granted by Prof Hassan Ghasemi, Amirkabir university of technology, Fall 2020 and Spring 2021
+
 2) Distinguished Student, Top %3
 
 
@@ -55,10 +56,15 @@ Work Experience
 ======
 
 1) Teacher assistant of ship hydrodynamics, Amirkabir university of technology, Fall 2018 until Spring 2019
+
 2) Internship, Syraf shipbuilding and marine equipment, June 2019 until September 2019
+
 3) Web developer, Amirkabir university of technology, Maritime engineering faculty, September 2019 until June 2020
+
 4) MATLAB instructor, Amirkabir university of technology, August 2021 until now
+
 5) Teacher assistant of ship hydrostatics, Amirkabir university of technology, Fall 2021 
+
 6) Teacher assistant of Fluid mechanics , Amirkabir university of technology, Fall 2021
 
 
