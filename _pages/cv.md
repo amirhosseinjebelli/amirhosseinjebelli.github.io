@@ -65,8 +65,11 @@ Work Experience
 project
 =====
 1) MATLAB GUI to design welded joints, Fall 2020
+
 2) MATLAB GUI to estimate resistance of high-speed marine vehicles based on Savitsky method, Spring 2021
+
 3) Study of wedge curvature and body form impacts on water entry, September 2019
+
 4) Investigation on energy converting by using hybrid system of tidal turbine and wave point absorber mounted on a fixed vertical cylinder, Fall 2020 until now
 
 
