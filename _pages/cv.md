@@ -81,7 +81,7 @@ Academic Work Experience
 11) Teacher Assistant of CFD, Amirkabir University of Technology, Winter 2022
 
 
-projects
+Projects
 =====
 1) MATLAB GUI to design welded joints, Fall 2020
 
