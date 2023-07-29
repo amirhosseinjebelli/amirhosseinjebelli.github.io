@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-> **Designing and analyzing a semi-submersible TLP under different wave and wind conditions**
+> **Designing and Analyzing a Semi-Submersible TLP Under Different Wave and Wind Conditions**
 
-In this project, the point was to reduce structure’s weight and maintain the optimum hydrodynamic performance of platform at the same time, which lead to removing the side connections (struts) of two side columns of conventional four column TLP.
+In this project, the point was to reduce the structure’s weight and maintain the optimum hydrodynamic performance of the platform at the same time, which lead to removing the side connections (struts) of two side columns of conventional four-column TLP.
 
 <img src= "https://user-images.githubusercontent.com/89830432/132587094-1104a3cd-b0c7-4c1a-a647-1c630f28b689.PNG" width="600" height="400">
 
@@ -24,11 +24,11 @@ In this project, the point was to reduce structure’s weight and maintain the o
 
 <img src= "https://user-images.githubusercontent.com/89830432/132586524-565ccdb7-1aeb-442f-89ec-86f62be60ad0.PNG" width="600" height="400">
 
-For more details and full report, please contact: [amirhjbl76@gmail.com](https://amirhjbl76@gmail.com)
+For more details and a full report, please contact: [amirhossein.jebelli76@gmail.com](https://amirhossein.jebelli76@gmail.com)
 
-> **Studying different strut connections and formations in High-Speed marine vehicles**
+> **Studying Different Strut Connections and Formations in High-Speed Marine Vehicles**
 
-In this project, the point was to find the optimum formation of struts in order to reduce vessel’s resistance and keep it stable.
+In this project, the point was to find the optimum formation of struts in order to reduce the vessel’s resistance and keep it stable.
 
 <img src= "https://user-images.githubusercontent.com/89830432/132590449-2178128b-4c4f-4c16-b046-2de84c1a93a3.PNG" width="600" height="400">
 
@@ -44,33 +44,33 @@ In this project, the point was to find the optimum formation of struts in order 
 
 <img src= "https://user-images.githubusercontent.com/89830432/132591395-cc877709-15a0-4dbf-93cc-a879de86e719.PNG" width="600" height="400">
 
-For more details and full report, please contact: [amirhjbl76@gmail.com](https://amirhjbl76@gmail.com)
+For more details and a full report, please contact: [amirhossein.jebelli76@gmail.com](https://amirhossein.jebelli76@gmail.com)
 
-> **An optimum design for B-Series**
+> **An Optimum Design for B-Series**
 
 Designing a B-series propeller by means of MATLAB
 
 <img src= "https://user-images.githubusercontent.com/89830432/132592256-7f2285b9-48ea-4e98-aec1-a2d2333df46b.PNG" width="700" height="500">
 <img src= "https://user-images.githubusercontent.com/89830432/132592258-40bf8ec6-18f8-49d8-b26b-2277529766d1.PNG" width="700" height="500">
 
-For more details and full report, please contact: [amirhjbl76@gmail.com](https://amirhjbl76@gmail.com)
+For more details and a full report, please contact: [amirhossein.jebelli76@gmail.com](https://amirhossein.jebelli76@gmail.com)
 
-> **Numerical analysis of a hydrofoil with BEM techniques by means of MATLAB**
+> **Numerical Analysis of a Hydrofoil Using BEM Techniques by Means of MATLAB**
 
 <img src= "https://user-images.githubusercontent.com/89830432/132593321-ee7616ff-b9be-4c7b-a78c-a94a80d1fa81.PNG" width="600" height="400">
 <img src= "https://user-images.githubusercontent.com/89830432/132593325-d24dfe4e-9e4e-4311-bbc3-5cfd8b8b5a63.PNG" width="600" height="400">
 <img src= "https://user-images.githubusercontent.com/89830432/132593326-8b40fc39-96c3-4eb9-9569-a5b88d1e853f.PNG" width="600" height="400">
 <img src= "https://user-images.githubusercontent.com/89830432/132593327-6571b0fd-ab87-4665-ad5f-3a9d1048b08a.PNG" width="600" height="400">
 
-For more details and full report, please contact: [amirhjbl76@gmail.com](https://amirhjbl76@gmail.com)
+For more details and a full report, please contact: [amirhossein.jebelli76@gmail.com](https://amirhossein.jebelli76@gmail.com)
 
-> **MATLAB GUI to design welded joints**
+> **MATLAB GUI to Design Welded Joints**
 
 <img src= "https://user-images.githubusercontent.com/89830432/132593328-1e33a074-cadb-49bf-8b93-edfb4f2b7b74.PNG" width="600" height="400">
 
-For more details and full report, please contact: [amirhjbl76@gmail.com](https://amirhjbl76@gmail.com)
+For more details and a full report, please contact: [amirhossein.jebelli76@gmail.com](https://amirhossein.jebelli76@gmail.com)
 
-> **Parametric and numeric solution of heave motion equations of a WEC.**
+> **Parametric and Numerical Solution of Heave Motion Equations of a WEC.**
 
 <img src= "https://user-images.githubusercontent.com/89830432/132593332-b8272318-4c5f-4ce7-b825-4d87d6a94670.PNG" width="600" height="400">
 <img src= "https://user-images.githubusercontent.com/89830432/132593334-791a05dc-1675-43e0-890b-a506c2872a0a.PNG" width="800" height="600">
