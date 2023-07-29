@@ -49,7 +49,7 @@ Education
 
 Awards and Honors
 ======
-1) Granted student, Granted by Prof Hassan Ghasemi, Amirkabir University of Technology, Fall 2020 and Spring 2021
+1) Granted student, Granted by Prof Hassan Ghassemi, Amirkabir University of Technology, Fall 2020 and Spring 2021
 
 2) Distinguished Student, Top %3
 
@@ -83,13 +83,13 @@ Academic Work Experience
 
 Projects
 =====
-1) MATLAB GUI to design welded joints, Fall 2020
+1) MATLAB GUI to Design Welded Joints, Fall 2020
 
 2) MATLAB GUI to estimate the resistance of high-speed marine vehicles based on the Savitsky method, Spring 2021
 
 3) Study of wedge curvature and body form impacts on water entry, September 2019
 
-4) Investigation on energy converting by using a hybrid system of tidal turbine and wave point absorber mounted on a fixed vertical cylinder, Fall 2020 until now
+4) Investigation on energy converting by using a hybrid system of tidal turbine and wave point absorber mounted on a fixed vertical cylinder, Fall 2020
 
 
 Computer Skills
