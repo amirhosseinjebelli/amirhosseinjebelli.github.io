@@ -6,10 +6,11 @@ main:
   - title: "My Projects"
     url: /My Projects/
 
-   
+   - title: "References"
+    url: /solman/
+
     
   #- title: "Useful Links"
   #  url: /links/
 
-  - title: "References"
-    url: /solman/
+  
