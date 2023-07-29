@@ -9,8 +9,8 @@ redirect_form:
 ---
 
 
-Greetings, my name is Amirhossein Jebelli, i studied  naval architecture at amirkabir university of technology, my major is ship hydromechanics. I have a solid background at engineering mathematics, hydrodynamics and fluid mechanics. I can operate several engineering softwares such as MATLAB, Ansys AQWA and Ansys CFX.
-I’m currently developing a MATLAB GUI to help us anticipate hydrodynamic and hydrostatic performance of a merchant ship, and developing a webpage that can help students to decide which engineering software course to participate based on their interests and needs with [my partner](https://fnegari.github.io/), we help each other alot and have a great chemistry which makes us super efficient when we work together. I’m interested in Hydrodynamics, offshore platforms, energy saving devices and WECs, Green energies and Marine Renewable energies.
+Greetings, my name is Amirhossein Jebelli, I studied  naval architecture at Amirkabir University of Technology, majoring in ship hydromechanics. I have a solid background in engineering mathematics, hydrodynamics, and fluid mechanics. I can operate several engineering software such as MATLAB, Ansys AQWA, and Ansys CFX.
+I’m developing a MATLAB GUI to help us anticipate the hydrodynamic and hydrostatic performance of a merchant ship, and developing a webpage that can help students decide which engineering software course to participate in based on their interests and needs. I’m interested in Hydrodynamics, offshore platforms, energy-saving devices and WECs, Green energies, and Marine Renewable Energies.
 
 
 
