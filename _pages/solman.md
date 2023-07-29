@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Solution Manuals"
+title: "References"
 permalink: /solman/
 author_profile: true
 ---
